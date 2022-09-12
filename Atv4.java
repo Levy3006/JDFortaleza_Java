@@ -1,6 +1,6 @@
-package atv6;
+package atv4;
 import java.util.Scanner;
-public class Atv6 {
+public class Atv4 {
     public static void main(String[] args) {
         int i =1;
         double soma=0;
